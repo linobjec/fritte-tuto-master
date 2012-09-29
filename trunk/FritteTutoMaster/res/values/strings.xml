@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FritteTutoMaster</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_crouton_info">Crouton info</string>
+    <string name="button_crouton_error">Crouton erreur</string>
+    <string name="button_crouton_ok">Crouton OK</string>
 </resources>
