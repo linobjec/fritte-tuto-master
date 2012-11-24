@@ -1,7 +1,8 @@
-package fritte.tuto.info;
+package fritte.tuto.info.activity;
 
-import fritte.tuto.info.library.Crouton;
-import fritte.tuto.info.library.Style;
+import fritte.tuto.info.R;
+import fritte.tuto.info.librarycrouton.Crouton;
+import fritte.tuto.info.librarycrouton.Style;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -36,7 +37,6 @@ public class TutoCroutonEtToast extends Activity implements OnClickListener {
 		crouton_error.setOnClickListener(this);
 	}
 
-	@Override
 	public void onClick(View v) {
 		/** test de l'id de l'evenement pour connaitre sur quoi on a cliqué */
 		switch (v.getId()) {
