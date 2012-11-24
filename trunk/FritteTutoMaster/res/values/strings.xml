@@ -4,4 +4,12 @@
     <string name="button_crouton_info">Crouton info</string>
     <string name="button_crouton_error">Crouton erreur</string>
     <string name="button_crouton_ok">Crouton OK</string>
+    <string name="mail">Mail</string>
+    <string name="mdp">Password</string>
+    <string name="to">to: </string>
+    <string name="send">Envoyer</string>
+    <string name="subject">Sujet</string>
+    <string name="envoye">Envoyé !</string>
+    <string name="pasenvoye">Pas envoyé !</string>
+    <string name="erreur_champs_vides">Erreur un champs est vide</string>
 </resources>

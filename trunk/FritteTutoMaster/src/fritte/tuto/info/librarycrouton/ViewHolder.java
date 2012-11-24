@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package fritte.tuto.info.library;
+package fritte.tuto.info.librarycrouton;
 
 import android.widget.TextView;
 import android.widget.RelativeLayout;
